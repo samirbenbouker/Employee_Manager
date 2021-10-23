@@ -11,7 +11,7 @@ WARNING IN FILE APPLICATION.PROPERTIES ADD USERNAME AND PASSWORD FOR YOUR DATABA
 ## Path Angular Project:
 `employeeManagerApp/src/app/`
 
-# Execute Angular Project:
+### Execute Angular Project:
 ```
 ng serve
 ```
