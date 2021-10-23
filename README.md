@@ -9,5 +9,9 @@ This Spring Boot project covers Spring Boot and MySQL using Spring Data JPA. Thi
 
 # Execute Angular Project:
 ```
-ng server
+ng serve
 ```
+
+## Path Data DataBase:
+_Can use this txt to insert default users_
+`employeemanager/data.txt`
