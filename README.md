@@ -8,4 +8,6 @@ This Spring Boot project covers Spring Boot and MySQL using Spring Data JPA. Thi
 `employeeManagerApp/src/app/`
 
 # Execute Angular Project:
-*ng server*
+```
+ng server
+```
