@@ -1,0 +1,28 @@
+{
+	"email": "heliassixten@gmail.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle": "JavaScript",
+	"name": "Helias Sixten",
+	"phone": "XXXXXXXXX"
+}
+{
+	"email": "baakliliya@gmail.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar3.png",
+	"jobTitle": "UX/UI",
+	"name": "Baak Liliya",
+	"phone": "XXXXXXXXX"
+}
+{
+	"email": "kalyaniyasin@gmail.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar7.png",
+	"jobTitle": "JavaScript",
+	"name": "Kalyani Yasin",
+	"phone": "XXXXXXXXX"
+}
+{
+	"email": "ineslongina@gmail.com",
+	"imageUrl": "https://bootdey.com/img/Content/avatar/avatar1.png",
+	"jobTitle": "JavaScript",
+	"name": "Ines Longina",
+	"phone": "XXXXXXXXX"
+}
