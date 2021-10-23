@@ -21,6 +21,9 @@ _Can use this txt to insert default users_
 `employeemanager/data.txt`
 
 ## Endpoints API:
+```
+PATH: localhost:8080/api/v1/employee
+```
 ### Get All Employees
 _This endpoint return all employees we found in database_
 <table>
