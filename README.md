@@ -35,10 +35,10 @@ _This endpoint return all employees we found in database_
 _This endpoint return employee with that id we passed_
 <table>
   <tr>
-    <th>Response: Employee</th>
+    <th colspan="4" >Response: Employee</th>
   </tr>
   <tr>
-    <th>Get /find/{id} </th>
+    <th colspan="4" >Get /find/{id} </th>
   </tr>
     <tr>
     <th>Param</th>
@@ -86,10 +86,10 @@ _This endpoint we can update a employee in frontend and database_
 _This endpoint delete employee with that id we passed_
 <table>
   <tr>
-    <th>Response: String</th>
+    <th colspan="4" >Response: String</th>
   </tr>
   <tr>
-    <th>Delete /delete/{id} </th>
+    <th colspan="4" >Delete /delete/{id} </th>
   </tr>
     <tr>
     <th>Param</th>
