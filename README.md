@@ -24,6 +24,13 @@ _Can use this txt to insert default users_
 ```
 PATH: localhost:8080/api/v1/employee
 ```
+- `Get /all` return all employees we found in database.
+- `Get /find/{id}` return employee with that id we passed.
+- `Post /add` we can add a employee in frontend and database.
+- `Put /update` we can update a employee in frontend and database.
+- `Delete /delete/{id}` delete employee with that id we passed.
+
+
 ### Get All Employees
 _This endpoint return all employees we found in database_
 <table>
